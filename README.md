@@ -3,9 +3,6 @@ This repository was created for the research paper "Attention-Based Deep Learnin
 ## Dataset
 The dataset used in this study is BreakHis. It is accessible at the [Breast Cancer Histopathological Database](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis). 
 
-## Acknowledgments
-The code was written with the assistance of OpenAI's ChatGPT-4, which was accessed through [Poe](https://poe.com).
-
 ## References
 - F. A. Spanhol, L. S. Oliveira, C. Petitjean, and L. Heutte, "A Dataset for Breast Cancer Histopathological Image Classification," IEEE Transactions on Biomedical Engineering, vol. 63, no. 7, pp. 1455-1462, 2016. [[DOI: 10.1109/TBME.2015.2496264](https://doi.org/10.1109/TBME.2015.2496264). 
 - M. Tan and Q. V. Le, "EfficientNetV2: Smaller models and faster training," arXiv preprint arXiv:2104.00298, 2021, [DOI: 10.48550/arXiv.2104.00298](https://doi.org/10.48550/arXiv.2104.00298).
